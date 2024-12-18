@@ -1,0 +1,14 @@
+.NavbarComponent {
+  padding: 32px;
+
+  .logo {
+    width: 120px !important;
+    height: 120px !important;
+    object-fit: contain;
+    object-position: center;
+  }
+
+  .navbar-item img {
+    max-height: 120px;
+  }
+}
